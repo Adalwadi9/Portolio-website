@@ -1,0 +1,7 @@
+.contact-box {
+  border: 2px solid #fcfdfd; /* Blue border */
+  border-radius: 8px; /* Rounded corners */
+  padding: 10px; /* Padding inside the box */
+  background-color: #f0f8ff; /* Light background color */
+  margin: 10px 0; /* Margin between boxes */
+}
